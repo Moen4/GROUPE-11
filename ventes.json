@@ -1,0 +1,20 @@
+[
+    {
+        "client": "f",
+        "produit": "a",
+        "quantite": 5,
+        "date": "20-20-200"
+    },
+    {
+        "client": "don",
+        "produit": "souris",
+        "quantite": 5,
+        "date": "2024-07-12"
+    },
+    {
+        "client": "adora",
+        "produit": "souris",
+        "quantite": 10,
+        "date": "2024-07-13"
+    }
+]
